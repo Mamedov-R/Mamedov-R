@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahim Mammadov</h1>
-<h3 align="center">A passionate data analyst from Azerbaijan</h3>
+
 
 - 📫 How to reach me **rehimmamedov0@gmail.com**
 
