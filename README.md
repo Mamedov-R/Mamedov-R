@@ -6,9 +6,8 @@
 ## 👨‍💻 About Me
 - 🎓 Master's student in **Big Data & Business Analytics**
 - 📊 Interested in **Data Analysis, Machine Learning, and AI**
-- 📈 Currently working on **real-world data projects (Airbnb pricing, unemployment trends, etc.)**
-- 🌱 Learning **Python, Scikit-learn, and advanced analytics**
-- 🎯 Goal: Become a **Data Scientist / ML Engineer**
+- 📈 Currently working on **real-world data projects (Research paper recommendation system, Car Insurance Risk Prediction, etc.)**
+- 🌱 Learning **Python,Power BI,SQL, Scikit-learn, and advanced analytics**
 
 ---
 
@@ -18,7 +17,7 @@
 - Built a **multi-class NLP model** to classify news articles into 5 categories
 - Used **TF-IDF, Scikit-learn, and classification models**
 - Achieved high accuracy with optimized preprocessing pipeline  
-🔗 [View Project](https://github.com/YOUR_USERNAME/BBC-News-Classification)
+🔗 [View Project](https://github.com/Mamedov-R/BBC-News-Classification)
 
 ---
 
@@ -26,7 +25,7 @@
 - Predicted **insurance claim likelihood** using ML classification models
 - Applied **feature engineering + Logistic Regression, Decision Trees**
 - Compared models to improve prediction performance  
-🔗 [View Project](https://github.com/YOUR_USERNAME/Car-Insurance-Risk-Prediction-ML-)
+🔗 [View Project](https://github.com/Mamedov-R/Car-Insurance-Risk-Prediction-ML)
 
 ---
 
@@ -34,7 +33,7 @@
 - Forecasted **customer subscription trends** using time-series data
 - Identified patterns in **customer behavior**
 - Built predictive models for business decision-making  
-🔗 [View Project](https://github.com/YOUR_USERNAME/Forecasting-Subscription-Trends-in-Business-Marketing)
+🔗 [View Project](https://github.com/Mamedov-R/Forecasting-Subscription-Trends-in-Business-Marketing)
 
 ---
 
@@ -42,7 +41,7 @@
 - Built sentiment classification using **NLTK + Transformer models**
 - Processed and cleaned text data for better accuracy
 - Extracted insights from textual datasets  
-🔗 [View Project](https://github.com/YOUR_USERNAME/Sentiment-Analysis-Project-with-NLTK-and-Transformers)
+🔗 [View Project](https://github.com/Mamedov-R/Sentiment-Analysis-Project-with-NLTK-and-Transformers)
 
 ---
 
@@ -50,20 +49,20 @@
 - Predicted environmental impact using **regression models**
 - Combined **economic + environmental datasets**
 - Performed EDA and forecasting  
-🔗 [View Project](https://github.com/YOUR_USERNAME/Predicting-the-Carbon-Emission-)
+🔗 [View Project](https://github.com/Mamedov-R/Predicting-the-Carbon-Emission-)
 
 ---
 
 ### 🧠 Research Paper Recommendation System
 - Built a **recommendation system** for academic papers
 - Used similarity techniques / embeddings  
-🔗 [View Project](https://github.com/YOUR_USERNAME/Research-Paper-Recommendation-System)
+🔗 [View Project](https://github.com/Mamedov-R/Research-Paper-Recommendation-System-)
 
 ---
 
 ## 📫 Contact Me
 - 📧 Email: **rehimmamedov0@gmail.com**
-- 💼 LinkedIn: *(add your link here)*
+- 💼 LinkedIn: **[rehimmamedov0@gmail.com](https://www.linkedin.com/in/rahim-mammadov-858800228)**
 
 ---
 
